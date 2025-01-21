@@ -1,0 +1,34 @@
+/* Champs de texte */
+input[type="text"], input[type="password"] {
+    width: 300px; /* Largeur */
+    height: 40px; /* Hauteur */
+    font-size: 14px; /* Taille de la police */
+    padding: 5px; /* Padding interne */
+    border-radius: 5px; /* Coins arrondis */
+    border: 1px solid #ccc; /* Bordure */
+    margin-bottom: 10px; /* Espacement en bas */
+}
+
+/* Zones de dépôt de fichiers */
+div[data-testid="stFileUploadDropzone"] div div {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: #FFF;
+    text-align: center;
+}
+div[data-testid="stFileUploadDropzone"] div div::before {
+    content: "Déposez votre fichier ici";
+}
+
+/* Pied de page */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 16px;
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
