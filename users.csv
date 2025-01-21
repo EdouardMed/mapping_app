@@ -1,4 +1,4 @@
 username,password,role
-Edouard,Medipim123,admin
-Marine,Medipim123,user
-Ben,Medipim123,user
+Edouard,$2b$12$cx/JO4XJlkiJamlYwKncmObzJwmQjD1OqOmaxWqzoPgh6zkhyL9Fy,admin
+Marine,$2b$12$enRglt92oZTTQlexufxGeOX6N4CId9/i3V9HT/y8HXz9L67yeHQPG,user
+Ben,$2b$12$enRglt92oZTTQlexufxGeOX6N4CId9/i3V9HT/y8HXz9L67yeHQPG,user
