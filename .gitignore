@@ -8,3 +8,9 @@ venv/
 # Ignorer d'autres configs locales
 *.pyc
 __pycache__/
+
+# spécifique à macOS
+.DS_Store
+
+# Ignorer session
+session.json
