@@ -1,0 +1,19 @@
+/* Centrer les titres */
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* Ajouter une bordure à la dataframe */
+.css-1l02zno {
+    border: 1px solid #ccc !important;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* Personnaliser les boutons */
+.stButton>button {
+    background-color: #4d8bf7;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}

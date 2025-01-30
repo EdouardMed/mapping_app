@@ -1,0 +1,15 @@
+[theme]
+primaryColor="#4d8bf7"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f0f2f6"
+textColor="#31333f"
+font="sans serif"
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
+
+[client]
+# Largeur max
+maxWidth = 1600
