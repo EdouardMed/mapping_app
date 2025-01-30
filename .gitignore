@@ -12,5 +12,5 @@ __pycache__/
 # spécifique à macOS
 .DS_Store
 
-# Ignorer session
+# Fichier de session Streamlit
 session.json
